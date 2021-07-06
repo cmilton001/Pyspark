@@ -1,0 +1,6 @@
+1: Find the average age of people who died and who survived
+2: Number of males and females survived in following age range: (age <= 20), (20 < age <= 50) and (age > 50 and age = NA)
+3: embarked locations and their count
+4: Number of people survived in each class
+5: Number of males survived whose age is less than 30 and travelling in 2nd class
+
